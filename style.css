@@ -1,0 +1,37 @@
+.header {
+    font-weight: bold;
+    font-size: 100px;
+    background-color: lightgreen;
+}
+.recipe {
+    font-size: 50px;
+}
+.lasagna {
+    background-color: brown;
+    color: yellow;
+}
+.pizza {
+    background-color: green;
+    color: orange;
+}
+.burger {
+    background-color: yellow;
+    color: red;
+}
+.image {
+    height: auto;
+    width: 500px;
+}
+
+h3 {
+    background-color: beige;
+}
+p {
+    background-color: beige;
+}
+h4 {
+    background-color: lightgray;
+}
+li {
+    background-color: lightsalmon;
+}
